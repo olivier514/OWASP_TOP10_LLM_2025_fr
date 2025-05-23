@@ -4,9 +4,9 @@
 
 Une vulnérabilité d'injection de prompt se produit lorsque les instructions fournies par une personne modifient le comportement ou les sorties d'un LLM de manière inattendue. Ces instructions peuvent affecter le modèle même si elles sont imperceptibles pour un humain ; une injection de prompt n’a donc pas besoin d’être lisible ou visible par un humain tant que le contenu est interprété par le modèle.
 
-Les vulnérabilités d'injection de prompt proviennent de la manière dont les modèles traitent les prompts, et du fait que certaines entrées peuvent forcer le modèle à transmettre incorrectement ces données à d'autres parties du système, ce qui peut entraîner une violation des règles en places, la génération de contenu préjudiciable, l'activation d'accès non autorisés ou influencer des décisions critiques. Bien que des techniques comme la Génération Augmentée par Récupération (en anglais RAG) ou des réglages avancés visent à rendre les sorties des LLM plus pertinentes et fiables, les recherches montrent qu'elles ne suffisent pas à éliminer ces vulnérabilités.
+Les vulnérabilités d'injection de prompt proviennent de la manière dont les modèles traitent les prompts, et du fait que certaines entrées peuvent forcer le modèle à transmettre incorrectement ces données à d'autres parties du système, ce qui peut entraîner une violation des règles en place, la génération de contenu préjudiciable, l'activation d'accès non autorisés ou influencer des décisions critiques. Bien que des techniques comme la Génération Augmentée par Récupération (en anglais RAG) ou des réglages avancés visent à rendre les sorties des LLM plus pertinentes et fiables, les recherches montrent qu'elles ne suffisent pas à éliminer ces vulnérabilités.
 
-L'injection de prompt et le déverrouillage (en anglais jailbraiking) sont deux concepts liés en matière de sécurité des LLM et ils souvent utilisés de façon interchangeable. L'injection de prompt consiste à manipuler les réponses du modèle par le biais d’entrées spécifiques afin de modifier son comportement, parfois en contournant les mesures de sécurité. Le déverrouillage est une forme particulière d'injection de prompt, dans laquelle la personne qui attaque insère des instructions afin de pousser le modèle à ignorer totalement ses protocoles de sécurité. L'équipe de développement peut intégrer des protections dans les prompts système et le traitement des entrées pour atténuer ces attaques. Cependant une prévention efficace du déverrouillage nécessite une mise à jour continue des mécanismes d’apprentissage et de sécurité du modèle.
+L'injection de prompt et le débridage (en anglais jailbraiking) sont deux concepts liés en matière de sécurité des LLM et ils souvent utilisés de façon interchangeable. L'injection de prompt consiste à manipuler les réponses du modèle par le biais d’entrées spécifiques afin de modifier son comportement, parfois en contournant les mesures de sécurité. Le débridage est une forme particulière d'injection de prompt, dans laquelle la personne qui attaque insère des instructions afin de pousser le modèle à ignorer totalement ses protocoles de sécurité. L'équipe de développement peut intégrer des protections dans les prompts système et le traitement des entrées pour atténuer ces attaques. Cependant une prévention efficace du débridage nécessite une mise à jour continue des mécanismes d’apprentissage et de sécurité du modèle.
 
 ### Types de vulnérabilités d'injection de prompt
 
@@ -31,7 +31,7 @@ L’essor de l’IA multimodale, capable de traiter simultanément plusieurs typ
 
 ### Stratégies de prévention et d'atténuation
 
-Les vulnérabilités d’injection de prompt sont inhérentes au fonctionnement de l’IA générative. En raison de la nature probabiliste de ces systèmes, il n'existe pas à ce jour de solution totalement infaillible face aux injection de prompt. Néanmoins, les mesures suivantes permettent d'en réduire les risques :
+Les vulnérabilités d’injection de prompt sont inhérentes au fonctionnement de l’IA générative. En raison de la nature probabiliste de ces systèmes, il n'existe pas à ce jour de solution totalement infaillible face aux injections de prompt. Néanmoins, les mesures suivantes permettent d'en réduire les risques :
 
 #### 1. Contraindre le comportement du modèle
 
@@ -43,19 +43,19 @@ Préciser les formats de réponse attendus, exiger des raisonnements détaillés
 
 #### 3. Mettre en place des filtres sur les entrées et sorties
 
-Définir les catégories sensibles et établir des règles pour les détecter et les traiter. Utiliser des filtres sémantiques strict et des analyses de chaînes de caractères pour repérer les contenus non autorisés. Évaluer les réponses à l’aide de la trilogie RAG: évaluer la pertinence du contexte, vérifivier le bien-fondé et la pertinence des questions/réponses afin d'identifier des sorties potentiellement malveillantes.
+Définir les catégories sensibles et établir des règles pour les détecter et les traiter. Utiliser des filtres sémantiques stricts et des analyses de chaînes de caractères pour repérer les contenus non autorisés. Évaluer les réponses à l’aide de la trilogie RAG: évaluer la pertinence du contexte, vérifier le bien-fondé et la pertinence des questions/réponses afin d'identifier des sorties potentiellement malveillantes.
 
 #### 4. Appliquer les principes de contrôle d'accès et du moindre privilège
 
-Fournir à l’application ses propres jetons API pour les fonctions en nécessitant, et invoquer ces fonction via du code plutôt que via le modèle. Réduire les privilèges d’accès du modèle au strict nécessaire à son bon fonctionnement.
+Fournir à l’application ses propres jetons API pour les fonctions en nécessitant, et invoquer ces fonctions via du code plutôt que via le modèle. Réduire les privilèges d’accès du modèle au strict nécessaire à son bon fonctionnement.
 
 #### 5. Soumettre les actions sensibles à une validation humaine
 
-Mettre en place des contrôles humains  (human-in-the-loop) pour toute opération à risque afin de se prémunir de toutes actions non-autorisées.
+Mettre en place des contrôles humains (human-in-the-loop) pour toute opération à risque afin de se prémunir de toutes actions non autorisées.
 
 #### 6. Isoler et identifier les contenus externes
 
-Séparer et indiquer clairement les contenus non fiable   afin de limiter leur influence sur les prompts utilisateurs.
+Séparer et indiquer clairement les contenus non fiables afin de limiter leur influence sur les prompts utilisateurs.
 
 #### 7. Effectuer des tests d’attaque et des simulations d'actes malveillants
 
@@ -65,7 +65,7 @@ Réaliser des tests d’intrusion et des simulations d’attaque régulièrement
 
 #### Scénario n°1 : Injection directe
 
-Une personne simule une attaque en injectant un prompt dans un agent conversationnel de support client, l’invitant à ignorer les instructions précédentes, interroger des bases de données privées et envoyer des e-mails afin d'évaluer la gestion d'accès non-autorisé et d'élévation de privilèges.
+Une personne simule une attaque en injectant un prompt dans un agent conversationnel de support client, l’invitant à ignorer les instructions précédentes, interroger des bases de données privées et envoyer des courriels afin d'évaluer la gestion d'accès non autorisé et d'élévation de privilèges.
 
 #### Scénario n°2 : Injection indirecte
 
@@ -89,7 +89,7 @@ Une personne simule une attaque en soumettant un CV contenant des fragments de p
 
 #### Scénario n°7 : Injection multimodale
 
-Une personne simule une attaque en insérant un prompt malveillant dans une image jointe à un texte anodin. Lorsqu’un modèle multimodal traite l’ensemble, le prompt dissimulé altère son comportement en effectuant des actions non-autorisées ou en divulgant des informations sensibles.
+Une personne simule une attaque en insérant un prompt malveillant dans une image jointe à un texte anodin. Lorsqu’un modèle multimodal traite l’ensemble, le prompt dissimulé altère son comportement en effectuant des actions non autorisées ou en divulgant des informations sensibles.
 
 #### Scénario n°8 : Suffixe hostile
 
