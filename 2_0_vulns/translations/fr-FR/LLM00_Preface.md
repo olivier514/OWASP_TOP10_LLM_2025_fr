@@ -27,7 +27,7 @@ OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/wilsonsd/
  
 #### Ads Dawson
-Responsable Technique & Entrées de Vulnérabilité Lead
+Responsable Technique & Responsables Sécurité/Vulnérabilité
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
 
