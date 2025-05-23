@@ -1,5 +1,4 @@
-## LLM02:2025 Sensitive Information Disclosure
-
+## LLM02:2025 Divulgation d'informations sensibles
 ### Description
 
 Sensitive information can affect both the LLM and its application context. This includes personal identifiable information (PII), financial details, health records, confidential business data, security credentials, and legal documents. Proprietary models may also have unique training methods and source code considered sensitive, especially in closed or foundation models.
