@@ -21,14 +21,14 @@ Un immense merci à ceux et celles qui ont œuvré à sa création et poursuiven
 
 #### Steve Wilson
 
-Responsable de Projet
-OWASP Top 10 for Large Language Model Applications
+Responsable de Projet, 
+OWASP Top 10 for Large Language Model Applications. 
 LinkedIn: <https://www.linkedin.com/in/wilsonsd/>
 
 #### Ads Dawson
 
-Responsable Technique & Responsable Sécurité/Vulnérabilité
-OWASP Top 10 for Large Language Model Applications
+Responsable Technique & Responsable Entrée des Vulnérabilités,
+OWASP Top 10 for Large Language Model Applications. 
 LinkedIn: <https://www.linkedin.com/in/adamdawson0/>
 
 #### Équipe de traduction en français
