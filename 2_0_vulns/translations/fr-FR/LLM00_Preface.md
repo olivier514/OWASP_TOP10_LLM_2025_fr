@@ -7,7 +7,7 @@ La liste de 2023 a été un réel succès, favorisant la sensibilisation et éta
 
 ### Quoi de neuf dans le Top 10 2025 ?
 
-La liste de 2025 reflète une meilleure compréhension des risques existants et intègre des mises à jour critiques quant à l'usage effectif des modèles de langage (LLM) dans les applications d'aujourd'hui. Par exemple, **Consommation Illimitée** élargit ce qui était auparavant Déni de Service afin de prendre en compte les risques liés à la gestion des ressources et aux coûts imprévus: un enjeu majeur dans les déploiements à grande échelle de LLM.
+La liste de 2025 reflète une meilleure compréhension des risques existants et intègre des mises à jour critiques quant à l'usage effectif des grands modèles de langage (LLM) dans les applications d'aujourd'hui. Par exemple, l'entrée **Consommation Illimitée** élargit ce qui était auparavant Déni de Service afin de prendre en compte les risques liés à la gestion des ressources et des coûts imprévus: un enjeu majeur dans les déploiements à grande échelle des LLM.
 
 L’entrée **vecteurs et représentations vectorielles** répond aux demandes de la communauté pour des directives relatives à la sécurisation des processus de Génération augmentée par récupération (RAG), et autres méthodes basées sur les intégrations, qui sont désormais des pratiques courantes afin d’assurer un ancrage contextuel des sorties de modèles.
 
