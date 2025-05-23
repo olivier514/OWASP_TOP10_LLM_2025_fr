@@ -1,6 +1,6 @@
  ## LLM01:2025 Fuite de prompt système
 
-### Une vulnérabilité d’injection de prompt se produit lorsque les instructions fournies par une personne modifient le comportement ou les sorties d’un LLM de manière inattendue. Ces instructions peuvent affecter le modèle même si elles sont imperceptibles pour un humain ; une injection de prompt n’a donc pas besoin d’être lisible ou visible par un humain tant que le contenu est interprété par le modèle.
+Une vulnérabilité d’injection de prompt se produit lorsque les instructions fournies par une personne modifient le comportement ou les sorties d’un LLM de manière inattendue. Ces instructions peuvent affecter le modèle même si elles sont imperceptibles pour un humain ; une injection de prompt n’a donc pas besoin d’être lisible ou visible par un humain tant que le contenu est interprété par le modèle.
 
 Les vulnérabilités d’injection de prompt proviennent de la manière dont les modèles traitent les prompts, et du fait que certaines entrées peuvent forcer le modèle à transmettre incorrectement ces données à d’autres parties du système, ce qui peut entraîner une violation des règles en place, la génération de contenu préjudiciable, l’activation d’accès non autorisés ou influencer des décisions critiques. Bien que des techniques comme la Génération Augmentée par Récupération (en anglais RAG) ou des réglages avancés visent à rendre les sorties des LLM plus pertinentes et fiables, les recherches montrent qu’elles ne suffisent pas à éliminer ces vulnérabilités.
 
