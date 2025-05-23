@@ -7,13 +7,13 @@ La liste de 2023 a été un réel succès, favorisant la sensibilisation et éta
 
 ### Quoi de neuf dans le Top 10 2025 ?
 
-La liste de 2025 reflète une meilleure compréhension des risques existants et intègre des mises à jour critiques quant à l'usage effectif des modèles de langage (LLM) dans les applications d'aujourd'hui. Par exemple, **Consommation Illimitée** élargit ce qui était auparavant Déni de Service afin de prendre en compte les risques liés à la gestion des ressources et aux coûts imprévus: un enjeu majeur dans les déploiements à grande échelle de LLM.
+La liste de 2025 reflète une meilleure compréhension des risques existants et intègre des mises à jour critiques quant à l'usage effectif des grands modèles de langage (LLM) dans les applications d'aujourd'hui. Par exemple, l'entrée **Consommation Illimitée** élargit ce qui était auparavant Déni de Service afin de prendre en compte les risques liés à la gestion des ressources et aux coûts imprévus: un enjeu majeur dans les déploiements à grande échelle des LLM.
 
-L’entrée **vecteurs et représentations vectorielles** répond aux demandes de la communauté pour des directives relatives à la sécurisation des processus de Génération augmentée par récupération (RAG), et autres méthodes basées sur les intégrations, qui sont désormais des pratiques courantes afin d’assurer un ancrage contextuel des sorties de modèles.
+L’entrée **vecteurs et représentations vectorielles** répond aux demandes de la communauté pour des directives relatives à la sécurisation des processus de Génération augmentée par récupération (RAG), et autres méthodes basées sur les intégrations, qui sont désormais des pratiques courantes afin d’assurer un ancrage contextuel des sorties des modèles.
 
-Nous avons également ajouté **Fuite de prompt système** pour traiter ce sujet de vulnérabilités avérées, largement sollicité par la communauté. De nombreuses applications présument des prompts protégés par un isolement sécurisé, mais des incidents récents ont montré que les développeurs ne peuvent pas tenir pour acquis que les informations transmises dans les requêtes restent secrètes.
+Nous avons également ajouté l'entrée **Fuite de prompt système** pour traiter ce sujet de vulnérabilités avérées, largement sollicité par la communauté. De nombreuses applications présument les prompts protégés par un isolement sécurisé, mais des incidents récents ont montré que les développeurs ne peuvent pas tenir pour acquis que les informations transmises dans ces requêtes restent secrètes.
 
-**Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie au LLM. Lorsqu'ils agissent à titre d'agents ou configurateur de paramètres de plugiciels, les permissions non contrôlées peuvent entraîner des actions involontaires ou exposées à des risques, rendant cette entrée plus critique que jamais.
+L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie aux LLM. Lorsqu'ils agissent à titre d'agents ou configurateurx de paramètres de plugiciels, les permissions non contrôlées peuvent entraîner des actions involontaires ou exposées à des risques, rendant cette entrée plus critique que jamais.
 
 ### Surmonter les obstacles 
  
@@ -22,11 +22,13 @@ Un immense merci à ceux et celles qui ont œuvré à sa création et poursuiven
 
 
 #### Steve Wilson
-Responsable du projet
+Project Lead
+Chef de Projet
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/wilsonsd/
 
+ 
 #### Ads Dawson
-Responsable technique, Entrées et vulnérabilités
+Responsable Technique & Responsable Sécurité/Vulnérabilité
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
