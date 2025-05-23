@@ -4,7 +4,6 @@ Le OWASP Top 10 for Large Language Model Application (LLM) a vu le jour en 2023 
 
 La liste de 2023 a été un réel succès, favorisant la sensibilisation et établissant une base solide pour un usage sécurisé des LLM. Mais nous en approfondissons encore plus notre compréhension depuis. Dans cette nouvelle version de 2025, nous avons travaillé avec un groupe élargi, avec des contributions plus diversifiées, à travers le monde, qui ont grandement aidé à la façonner. Le processus a impliqué des séances de réflexions, des votes et des retours d’expériences professionnelles concrètes, de personnes directement impliquées dans la sécurisation des applications LLM, que ce soit en contribuant ou en affinant les entrées par leurs commentaires. Chaque voix a été essentielle pour rendre cette nouvelle édition aussi exhaustive et pratique que possible.
 
-
 ### Quoi de neuf dans le Top 10 2025 ?
 
 La liste de 2025 reflète une meilleure compréhension des risques existants et intègre des mises à jour critiques quant à l'usage effectif des grands modèles de langage (LLM) dans les applications d'aujourd'hui. Par exemple, l'entrée **Consommation Illimitée** élargit ce qui était auparavant Déni de Service afin de prendre en compte les risques liés à la gestion des ressources et aux coûts imprévus: un enjeu majeur dans les déploiements à grande échelle des LLM.
@@ -15,27 +14,31 @@ Nous avons également ajouté l'entrée **Fuite de prompt système** pour traite
 
 L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie aux LLM. Lorsqu'ils agissent à titre d'agents ou configurateurx de paramètres de plugiciels, les permissions non contrôlées peuvent entraîner des actions involontaires ou exposées à des risques, rendant cette entrée plus critique que jamais.
 
-### Surmonter les obstacles 
- 
+### Surmonter les obstacles
+
 Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM.
 Un immense merci à ceux et celles qui ont œuvré à sa création et poursuivent ensemble son amélioration. C’est un privilège de collaborer avec vous à ce projet.
 
 #### Steve Wilson
-Project Lead
+
 Chef de Projet
 OWASP Top 10 for Large Language Model Applications
-LinkedIn: https://www.linkedin.com/in/wilsonsd/
+LinkedIn: <https://www.linkedin.com/in/wilsonsd/>
 
 #### Ads Dawson
+
 Responsable Technique & Responsable Sécurité/Vulnérabilité
 OWASP Top 10 for Large Language Model Applications
-LinkedIn: https://www.linkedin.com/in/adamdawson0/
+LinkedIn: <https://www.linkedin.com/in/adamdawson0/>
 
 #### Équipe de traduction en français
+
 #### Cédric
+
 #### Olivier
-#### À propos de cette traduction 
 
-#### Talesh Seeparsan Responsable de la traduction, OWASP Top 10 pour les applications LLM LinkedIn : https://www.linkedin.com/in/talesh/
+#### À propos de cette traduction
 
-#### N’hésitez à nous faire part de vos recommandations.
+#### Talesh Seeparsan Responsable de la traduction, OWASP Top 10 pour les applications LLM LinkedIn : <https://www.linkedin.com/in/talesh/>
+
+#### N’hésitez à nous faire part de vos recommandations
