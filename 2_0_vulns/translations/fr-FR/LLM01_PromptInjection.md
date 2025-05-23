@@ -119,5 +119,7 @@ Une personne simule une attaque en utilisant plusieurs langues ou en encodant se
 Consultez cette section pour obtenir des informations détaillées, des stratégies et des scénarios liés au déploiement d’infrastructures, aux contrôles des environnements appliqués et aux meilleures pratiques:
 
 —[AML.T0051.000— LLM Prompt Injection: Direct] (https://atlas.mitre.org/techniques/AML.T0051.000) **MITRE ATLAS**
+
 —[AML.T0051.001 - LLM Prompt Injection: Indirect] (https://atlas.mitre.org/techniques/AML.T0051.001) **MITRE ATLAS**
+
 —[AML.T0054 - LLM Jailbreak Injection: Direct](https://atlas.mitre.org/techniques/AML.T0054) **MITRE ATLAS**
