@@ -32,3 +32,15 @@ LinkedIn: https://www.linkedin.com/in/wilsonsd/
 Responsable Technique & Responsable Sécurité/Vulnérabilité
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
+
+#### Équipe de traduction en français
+
+#### Cédric
+
+#### Olivier
+
+#### À propos de cette traduction 
+
+#### Talesh Seeparsan Responsable de la traduction, OWASP Top 10 pour les applications LLM LinkedIn : https://www.linkedin.com/in/talesh/
+
+#### N’hésitez à nous faire part de vos recommandations.
