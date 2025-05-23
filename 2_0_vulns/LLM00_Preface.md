@@ -17,9 +17,9 @@ Nous avons également ajouté **Fuite de requête système** pour traiter ce suj
 
 ### Surmonter les obstacles 
  
-Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques, de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM.
-Un immense merci à ceux qui ont œuvré à sa création et à ceux qui poursuivent son amélioration. C’est un privilège de collaborer avec vous à ce projet.
+Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM.
 
+Un immense merci à ceux qui ont œuvré à sa création et à ceux qui en font usage et poursuivent son amélioration. C’est un privilège de collaborer avec vous dans ce projet.
  
 #### Steve Wilson
 Chef de Projet
@@ -27,7 +27,6 @@ OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/wilsonsd/
  
 #### Ads Dawson
-
-Responsable Technique & Entrées de Vulnérabilité Lead
+Responsable Technique & Entrées de Vulnérabilité
 OWASP Top 10 for Large Language Model Applications 
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
