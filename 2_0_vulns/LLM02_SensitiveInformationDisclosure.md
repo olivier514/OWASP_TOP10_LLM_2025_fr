@@ -2,11 +2,7 @@
 
 ### Description
 
-Les informations sensibles générés à l’aide de systèmes d’intelligence artificielle ou de renseignements inférés sont des renseignements personnels assujettis aux lois applicables.
-
 Sensitive information can affect both the LLM and its application context. This includes personal identifiable information (PII), financial details, health records, confidential business data, security credentials, and legal documents. Proprietary models may also have unique training methods and source code considered sensitive, especially in closed or foundation models.
-
-Les informations sensibles peuvent impacter à la fois le modèle de langage (LLM) et son contexte d'application. Cela inclut les données personnelles identifiables (PII), les détails financiers, les dossiers médicaux, les informations confidentielles des entreprises, les identifiants de sécurité et les documents légaux. Les modèles propriétaires peuvent également comporter des méthodes d'entraînement et du code source considérés comme sensibles, en particulier dans le cas des modèles fermés ou fondamentaux.
 
 LLMs, especially when embedded in applications, risk exposing sensitive data, proprietary algorithms, or confidential details through their output. This can result in unauthorized data access, privacy violations, and intellectual property breaches. Consumers should be aware of how to interact safely with LLMs. They need to understand the risks of unintentionally providing sensitive data, which may later be disclosed in the model's output.
 
