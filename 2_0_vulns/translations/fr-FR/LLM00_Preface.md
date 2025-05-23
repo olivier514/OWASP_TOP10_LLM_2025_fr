@@ -1,4 +1,4 @@
-## Lettre des responsables du projets
+## Lettre des responsables du projet
 
 Le OWASP Top 10 for Large Language Model Application (LLM) a vu le jour en 2023 dans le cadre d’un effort communautaire visant à mettre en évidence et traiter les problèmes de sécurité spécifiques aux dispositifs de l’IA. Depuis, la technologie a continué à proliférer dans divers secteurs et applications, tout comme les risques qui y sont associés. Au fur et à mesure de l’intégration de LLM de plus en plus avancé dans tous les domaines — des interactions avec la clientèle aux processus internes — les équipes de développement et les spécialistes en sécurité découvrent de nouvelles vulnérabilités et les moyens d’en contrer l’exploitation.
 
