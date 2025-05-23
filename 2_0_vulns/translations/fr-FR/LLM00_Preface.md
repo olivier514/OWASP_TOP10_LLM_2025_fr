@@ -1,4 +1,4 @@
-### Lettre des responsables du projet
+## Lettre des responsables du projet
 
 Le OWASP Top 10 for Large Language Model Application (LLM) a vu le jour en 2023 dans le cadre d’un effort communautaire visant à mettre en évidence et traiter les problèmes de sécurité spécifiques aux dispositifs de l’IA. Depuis, la technologie a continué à proliférer dans divers secteurs et applications, tout comme les risques qui y sont associés. Au fur et à mesure de l’intégration de LLM de plus en plus avancé dans tous les domaines — des interactions avec la clientèle aux processus internes — les équipes de développement et les spécialistes en sécurité découvrent de nouvelles vulnérabilités et les moyens d’en contrer l’exploitation.
 
@@ -20,25 +20,20 @@ L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation 
 Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM.
 Un immense merci à ceux et celles qui ont œuvré à sa création et poursuivent ensemble son amélioration. C’est un privilège de collaborer avec vous à ce projet.
 
-
 #### Steve Wilson
 Project Lead
 Chef de Projet
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/wilsonsd/
 
- 
 #### Ads Dawson
 Responsable Technique & Responsable Sécurité/Vulnérabilité
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
 
 #### Équipe de traduction en français
-
 #### Cédric
-
 #### Olivier
-
 #### À propos de cette traduction 
 
 #### Talesh Seeparsan Responsable de la traduction, OWASP Top 10 pour les applications LLM LinkedIn : https://www.linkedin.com/in/talesh/
