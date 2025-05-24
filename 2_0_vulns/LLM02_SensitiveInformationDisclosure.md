@@ -1,4 +1,4 @@
-## LLM02:2025 Sensitive Information Disclosure
+## LLM02:2025 Divulgation d'informations sensibles
 
 ### Description
 
