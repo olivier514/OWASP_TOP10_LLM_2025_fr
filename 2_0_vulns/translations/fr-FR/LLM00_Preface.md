@@ -16,7 +16,7 @@ L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation 
 
 ### Surmonter les obstacles
 
-Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM. Merci à tout le monde de l’avoir concrétisée, et à vous qui en poursuivez l’usage et l’amélioration à nos côtés. Nous vous en sommes reconnaissants.
+Tout comme la technologie elle-même, cette liste est le fruit des réflexions et des expériences de la communauté du logiciel libre. Elle a été façonnée par les contributions de développeurs, de scientifiques de données et d’experts en sécurité de tous les secteurs, tous engagés à bâtir des applications d’IA plus sûres. Nous sommes fiers de partager cette version 2025 avec vous, et nous espérons qu’elle vous fournira les outils et les connaissances nécessaires pour sécuriser efficacement les LLM. Merci, à tout le monde de l’avoir concrétisée, et à vous qui en poursuivez l’usage et l’amélioration à nos côtés. Nous vous en sommes reconnaissants.
 
 
 #### Steve Wilson
