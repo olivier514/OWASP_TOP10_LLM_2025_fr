@@ -12,7 +12,7 @@ L’entrée **vecteurs et représentations vectorielles** répond aux demandes d
 
 Nous avons également ajouté l'entrée **Fuite de prompt système** pour traiter ce sujet de vulnérabilités avérées qui suscitait un vif intérêt au sein de la communauté. De nombreuses applications présument les prompts protégés par un isolement sécurisé, mais des incidents récents ont montré que les développeurs ne peuvent pas tenir pour acquis que les informations transmises dans ces requêtes restent secrètes.
 
-L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie aux LLM. Lorsque les LLM agissent à titre d'agents ou configurateurs délégués aux paramétrages de plugiciels, les autorisations non circonscrites peuvent entraîner des actions involontaires ou exposer à des risques, rendant cette entrée plus critique que jamais.
+L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie aux LLM. Lorsque les LLM agissent à titre d'agents ou configurateurs de plugiciels, les autorisations non circonscrites peuvent entraîner des actions involontaires ou exposer à des risques, rendant cette entrée plus critique que jamais.
 
 ### Surmonter les obstacles
 
