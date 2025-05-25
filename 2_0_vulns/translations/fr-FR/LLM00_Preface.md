@@ -10,7 +10,7 @@ La liste de 2025 reflète une meilleure compréhension des risques existants et 
 
 L’entrée **vecteurs et représentations vectorielles** répond aux demandes de la communauté pour des orientations relatives à la sécurisation des processus de Génération augmentée par récupération (RAG) et autres méthodes basées sur les intégrations. Elles sont désormais des pratiques courantes afin d’assurer un ancrage contextuel des sorties des modèles.
 
-Nous avons également ajouté l'entrée **Fuite de prompt système** pour traiter ce sujet de vulnérabilités avérées, qui résulte aussi d'une volonté fortement partagée par la communauté. De nombreuses applications présument les prompts protégés par un isolement sécurisé, mais des incidents récents ont montré que les développeurs ne peuvent pas tenir pour acquis que les informations transmises dans ces requêtes restent secrètes.
+Nous avons également ajouté l'entrée **Fuite de prompt système** pour traiter ce sujet de vulnérabilités avérées qui suscitait un vif intérêt au sein de la communauté. De nombreuses applications présument les prompts protégés par un isolement sécurisé, mais des incidents récents ont montré que les développeurs ne peuvent pas tenir pour acquis que les informations transmises dans ces requêtes restent secrètes.
 
 L'entrée **Agentivité excessive** a été élargie en raison de l'utilisation croissante d'architectures agentiques qui peuvent donner plus d'autonomie aux LLM. Lorsqu'elles agissent à titre d'agentes ou configurateurs de paramètres de plugiciels, les permissions non contrôlées peuvent entraîner des actions involontaires ou exposer à des risques, rendant cette entrée plus critique que jamais.
 
